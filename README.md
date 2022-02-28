@@ -4,7 +4,7 @@ You can export the sheet to CSV, import the Contacts to [Google Contacts](https:
 Or, you could use this script for automating the process for you.<br>
 Currently it only supports sending the WhatsApp Group Invite to each person individually **without** saving the contacts.<br><br>
 ### How to make it work?
-Pre-requisites:
+#### Pre-requisites:
   - macOS
   - WhatsApp Desktop (download from [here](https://apps.apple.com/us/app/whatsapp-desktop/id1147396723?mt=12))
   - Google Chrome (download from [here](https://www.google.com/chrome/))
