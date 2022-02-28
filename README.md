@@ -1,5 +1,3 @@
-![WhatsApp_Automation GitHub](https://user-images.githubusercontent.com/77260373/155949056-f6845a83-e215-4cf3-bd7e-bd632ce1e8a2.png)
-
 # WhatsApp_Automation
 Need to make a WhatsApp Group for more than 100 people from an Excel Sheet?<br><br>
 You can export the sheet to CSV, import the Contacts to [Google Contacts](https://www.contacts.google.com), then add each contact **individually**. Then delete the extra added contacts from Google Contacts.<br><br>
