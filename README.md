@@ -17,9 +17,9 @@ Currently it only supports sending the WhatsApp Group Invite to each person indi
   5. Tick it.
   6. Close the System Preferences.
   7. Open WhatsApp Desktop and make sure you're logged in and all the syncing is completed.
-  8. Open Google Chrome
+  8. Open Google Chrome.
   9. Open this link [https://wa.me/919876543210?text=Testing](https://wa.me/919876543210?text=Testing)
-  10. You will get a pop-up from Chrome asking if you want to open the link in WhatsApp Desktop. Select option to always open in WhatsApp Desktop.
+  10. You will get a pop-up from Chrome asking if you want to open the link in WhatsApp Desktop. Select the option to always open in WhatsApp Desktop.
 
 #### Running the Automation:
   1. Make sure WhatsApp Desktop and Google Chrome are open.
@@ -37,7 +37,7 @@ This was built using WhatsApp API and AppleScript. This is not a new concept, pe
 ## Further Improvements Planned
 - Primary:
   - Currently the Automation Process only works on macOS. I'm implementing it on Windows also.
-  - Script Only sends WhatsApp group invite to people. Need to add a way to Add Them to Group Directly.
+  - Script only sends WhatsApp group invite to people. Need to add a way to Add Them to Group Directly.
   - Planning to Automate the whole process; taking the numbers from Google Sheets and Adding them to Group.
 - Secondary:
   - Making a GUI 
