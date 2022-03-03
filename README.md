@@ -5,7 +5,7 @@ Or, you could use this script for automating the process for you.<br>
 Currently it only supports sending the WhatsApp Group Invite to each person individually **without** saving the contacts.<br>
 #### Pre-requisites:
   - macOS or Windows
-  - WhatsApp Desktop (download from [here](https://apps.apple.com/us/app/whatsapp-desktop/id1147396723?mt=12))
+  - WhatsApp Desktop (for [macOS](https://apps.apple.com/us/app/whatsapp-desktop/id1147396723?mt=12), for [Windows 64-bit](https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe), for [Windows 32-bit](https://web.whatsapp.com/desktop/windows/release/ia32/WhatsAppSetup.exe))
 
 ### How to make it work? (macOS)
 #### Getting your system ready:
